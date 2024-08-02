@@ -1,3 +1,3 @@
 ## 🚀 Current Mission Objectives:
-   - Publishing research and observations on all thing AI security.
+   - Learning, Publishing research and observations on all thing AI security.
 
